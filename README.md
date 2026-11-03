@@ -208,13 +208,6 @@ go build -o cfscan .
 ```
 
 首次直接使用 CLI 时可能先生成配置模板并退出，填写配置后再次运行即可。开源包不包含签名私钥、用户面板密码、本地配置、缓存或历史 CFNext 原始软件。
-
-- [构建说明](BUILDING.md)
-- [完整验证记录与待验证项](docs/VERIFICATION.md)
-- [开源材料检查](docs/OPEN_SOURCE_RELEASE.md)
-- [贡献说明](CONTRIBUTING.md)
-- [安全问题说明](SECURITY.md)
-
 Windows 托盘恢复及安卓新增后台生命周期仍有实际交互 / 真机验证待完成；具体测试范围以上述验证记录为准。
 
 ## 八、开源许可
