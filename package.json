@@ -1,0 +1,19 @@
+{
+  "name": "cfscan-development-tools",
+  "private": true,
+  "license": "GPL-3.0-or-later",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "icons": "node scripts/build-icons.cjs",
+    "verify:ui": "node scripts/verify-custom-ui.cjs",
+    "verify:live": "node scripts/verify-live.cjs",
+    "verify:workflows": "node scripts/verify-workflows.cjs",
+    "verify:cfnext": "node --experimental-vm-modules scripts/verify-cfnext-versions.cjs",
+    "verify:android": "node scripts/verify-android.cjs"
+  },
+  "devDependencies": {
+    "jszip": "3.10.1",
+    "playwright": "1.62.1",
+    "sharp": "0.35.5"
+  }
+}
