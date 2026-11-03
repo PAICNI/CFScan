@@ -176,10 +176,7 @@ CFScan/
 ├─ combined_refactor/   Go 主程序、嵌入界面、测试与 vendor 依赖
 ├─ app/                 Android 窗口、后台服务及资源
 ├─ assets/              图标源文件与 Windows 清单
-├─ scripts/             构建、验证及开源打包脚本
-├─ docs/                功能验证、兼容清单和交付记录
 ├─ licenses/            第三方许可与通知原文
-├─ BUILDING.md          完整构建说明
 └─ LICENSE              项目许可证
 ```
 
