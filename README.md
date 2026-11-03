@@ -1,6 +1,6 @@
 # CFScan
 
-基于 Go 的 Cloudflare IP 优选工具，提供 Windows 独立窗口、Android 应用和 CLI。软件显示版本固定为 **1.0**。
+基于 Go 的 Cloudflare IP 优选工具，修改自[CFData-Web](https://github.com/PoemMisty/CFData-WEB)提供 Windows 独立窗口、Android 应用和 CLI。软件显示版本固定为 **1.0**。
 
 ## 功能
 
