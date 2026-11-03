@@ -2,12 +2,10 @@
 
 > **CFScan** 是基于 Go 的 Cloudflare IP 优选工具。修改自[CFData-Web](https://github.com/PoemMisty/CFData-WEB)，支持官方地址库抽样、自定义 CIDR 网段全量扫描，以及第三方 IP / 域名与端口测试；将延迟检测、下载测速、链路复验和结果筛选整合到同一界面，优选结果可复制、导出，或追加上报到 CFNext 的「自定义订阅（支持汇聚）」。
 >
+> **[✈ CFNext 仓库](https://github.com/PAICNI/CFNext/)**
 > **[✈ Telegram 交流群](https://t.me/SZ_PAI)**
 > **[✈ Telegram 发布频道](https://t.me/PaiCNX)**
 > **[📺️ YouTube 频道](https://www.youtube.com/@PAI_CN)**
-> **[▶️ 3.0 新版本部署教程](https://www.youtube.com/watch?v=CQ8zvWXkZzA)**
-> **[▶️ 2.0 Worker模式视频使用教程](https://youtu.be/1GCZgdGFsk0)**
-
 
 
 ## 一、项目概览
